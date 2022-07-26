@@ -3,9 +3,9 @@
 #include <DHT.h>   
 
 #define FIREBASE_HOST "dht-11-21772-default-rtdb.firebaseio.com"                         // the project name address from firebase id
-#define FIREBASE_AUTH "e0V3jubyw0SahAfC5VaRUXJ6v2QxdNRGUgZElsVD"                    // the secret key generated from firebase
-#define WIFI_SSID ""                                          // input your home or public wifi name
-#define WIFI_PASSWORD "karachi021"                                    //password of wifi ssid
+#define FIREBASE_AUTH "___"                    // the secret key generated from firebase
+#define WIFI_SSID "___"                                          // input your home or public wifi name
+#define WIFI_PASSWORD "___"                                    //password of wifi ssid
 
 
 String fireStatus1 = "";// led status received from firebase
