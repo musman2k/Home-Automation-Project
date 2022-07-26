@@ -8,7 +8,7 @@ In Home Automation Project, we use *Arduino IDE* as a back-end platform, *MIT ap
 
 
 * Module:
-ESP32
+1. ESP32
 
 * Sensors:
 1. DHT11
